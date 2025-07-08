@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\views\\cliente\\crear_usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\views\\cliente\\crear_usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\views\\home\\_bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\views\\home\\_bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\models\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\models\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\views\\pedido\\verpedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\views\\pedido\\verpedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|d:\\universidad\\sem5\\arquitectura\\practicamvc\\cafeteria\\cafeteria\\cafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B883C3-C856-4D99-80C6-2073921FCECC}|Cafeteria\\Cafeteria.csproj|solutionrelative:cafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear_usuario.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Cliente\\Crear_usuario.cshtml",
+              "RelativeDocumentMoniker": "Cafeteria\\Views\\Cliente\\Crear_usuario.cshtml",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Cliente\\Crear_usuario.cshtml",
+              "RelativeToolTip": "Cafeteria\\Views\\Cliente\\Crear_usuario.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T23:06:05.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Bienvenido.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Home\\_Bienvenido.cshtml",
+              "RelativeDocumentMoniker": "Cafeteria\\Views\\Home\\_Bienvenido.cshtml",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Home\\_Bienvenido.cshtml",
+              "RelativeToolTip": "Cafeteria\\Views\\Home\\_Bienvenido.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T21:42:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Models\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "Cafeteria\\Models\\ClienteRepositorio.cs",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Models\\ClienteRepositorio.cs",
+              "RelativeToolTip": "Cafeteria\\Models\\ClienteRepositorio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:54:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cafeteria\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Models\\Cliente.cs",
+              "RelativeToolTip": "Cafeteria\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:54:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Cafeteria\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Cafeteria\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:52:40.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerPedidos.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Pedido\\VerPedidos.cshtml",
+              "RelativeDocumentMoniker": "Cafeteria\\Views\\Pedido\\VerPedidos.cshtml",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Pedido\\VerPedidos.cshtml",
+              "RelativeToolTip": "Cafeteria\\Views\\Pedido\\VerPedidos.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T19:41:45.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Cafeteria\\Controllers\\PedidoController.cs",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Cafeteria\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1AAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:10:06.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Program.cs",
+              "RelativeDocumentMoniker": "Cafeteria\\Program.cs",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Program.cs",
+              "RelativeToolTip": "Cafeteria\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:07:29.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cafeteria\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Universidad\\Sem5\\Arquitectura\\PracticaMVC\\Cafeteria\\Cafeteria\\Cafeteria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cafeteria\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:57:19.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

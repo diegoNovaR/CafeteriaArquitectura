@@ -1,0 +1,196 @@
+﻿
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f3f0;
+    color: #4b3832;
+}
+
+
+
+.seccion-productos{
+    margin: 2rem 1.2rem 4rem;
+}
+
+
+/*=================================*/
+
+h1, h2 {
+    color: black;
+    font-weight: bold;
+}
+
+.parrafo, p {
+    font-size: 1.3rem;
+    line-height: 1.7;
+    color: #5a4636;
+}
+
+.container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    margin-top: 1.5rem;
+}
+/*===================PRODUCTOS====================================*/
+.seccion-productos {
+    margin-top: 3rem;
+}
+
+.productos {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+    .productos:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .productos h3 {
+        color: black;
+        font-weight: bold;
+    }
+
+    .productos p {
+        font-size: 1.1rem;
+        color: #5a4636;
+    }
+
+    .productos span {
+        display: block;
+        font-size: 1.2rem;
+        color: #8b4513;
+        margin-top: 0.5rem;
+        font-weight: bold;
+    }
+
+.btn-ver-mas {
+    margin-top: 1rem;
+    background-color: #d2b48c;
+    border: none;
+    color: white;
+}
+
+    .btn-ver-mas:hover {
+        background-color: #c49b6e;
+    }
+
+/*==============PEDIDOS===============*/
+
+.titulo {
+    margin-top: 2rem;
+    color: #6f4e37;
+    font-weight: bold;
+}
+
+.cafe {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+    .cafe:hover {
+        transform: scale(1.02);
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    }
+
+    .cafe h3 {
+        color: #8b4513;
+    }
+
+    .cafe p {
+        font-size: 1.1rem;
+    }
+
+.btn-success {
+    background-color: #a0522d;
+    border: none;
+    margin: 1rem 0 0.5rem 0;
+}
+
+    .btn-success:hover {
+        background-color: #8b4513;
+    }
+
+/*================Perfil====================*/
+.perfil {
+    margin-top: 3rem;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.perfil-table {
+    margin: 0 auto;
+    width: 60%;
+    background-color: #fdf6f0;
+    border-collapse: collapse;
+}
+
+    .perfil-table th, .perfil-table td {
+        border: 1px solid #d3c0b0;
+        padding: 1rem;
+        font-size: 1.1rem;
+    }
+
+    .perfil-table th {
+        background-color: #e0c7aa;
+        color: #4b3832;
+        text-align: left;
+        width: 30%;
+    }
+
+    .perfil-table td {
+        background-color: #fff;
+        color: #5a4636;
+    }
+/*===================crear Uusario===========================*/
+
+.Formulario {
+    max-width: 500px;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.text-cafe {
+    color: black;
+    font-weight: bold;
+}
+
+.btn-cafe {
+    background-color: #6f4e37;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+    .btn-cafe:hover {
+        background-color: #5c3b28;
+        color: #f8f3f0;
+    }
+
+
+
+

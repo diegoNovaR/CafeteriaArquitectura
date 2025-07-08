@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cafeteria
+build_property.RootNamespace = Cafeteria
+build_property.ProjectDir = D:\Universidad\Sem5\Arquitectura\PracticaMVC\Cafeteria\Cafeteria\Cafeteria\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Universidad\Sem5\Arquitectura\PracticaMVC\Cafeteria\Cafeteria\Cafeteria
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Cliente/Crear_usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhcl91c3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Cliente/Iniciar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmljaWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Cliente/UsuarioPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxVc3VhcmlvUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/_Bienvenido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQmllbnZlbmlkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/_Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUHJvZHVjdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Home/_UserBienvenido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVXNlckJpZW52ZW5pZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Pedido/Pedidos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXFBlZGlkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Pedido/VerPedidos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXFZlclBlZGlkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Sem5/Arquitectura/PracticaMVC/Cafeteria/Cafeteria/Cafeteria/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j2a2liaspr

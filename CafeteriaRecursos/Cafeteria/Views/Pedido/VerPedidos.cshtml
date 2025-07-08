@@ -1,0 +1,39 @@
+﻿@model Cliente
+
+<h2>Pedidos de @Model.Nombre</h2>
+
+@if (Model.Pedidos != null && Model.Pedidos.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre del Café</th>
+                <th>Descripción</th>
+                <th>Precio</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Pedidos.Count; i++)
+            {
+                <tr>
+                    <td>@Model.Pedidos[i].Nombre</td>
+                    <td>@Model.Pedidos[i].Descripcion</td>
+                    <td>S/. @Model.Pedidos[i].Precio</td>
+                    <td>
+                        <form asp-action="EliminarPedido" asp-controller="Pedido" method="post">
+                            <input type="hidden" name="index" value="@i" />
+                            <button type="submit" class="btn btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Total: S/. @Model.Total</h3>
+}
+else
+{
+    <p>No hay pedidos aún.</p>
+}

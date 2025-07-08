@@ -1,0 +1,46 @@
+﻿@model Cliente
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Perfil";
+}
+
+@if (Model != null)
+{
+    <div class="container text-center perfil">
+        <h1 class="title">Perfil de @Model.Usuario</h1>
+
+        <table class="perfil-table">
+            <tr>
+                <th>Nombres: </th>
+                <td>@Model.Nombre</td>
+            </tr>
+            <tr>
+                <th>Apellido: </th>
+                <td>@Model.Apellido</td>
+            </tr>
+            <tr>
+                <th>Usuario: </th>
+                <td>@Model.Usuario</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="container align-content-center cerrar">
+        <form asp-action="EliminarSesion" asp-controller="Cliente" method="post" class="Formulario">
+            <button type="submit" class="btn btn-danger">Eliminar</button>
+        </form>
+    </div>
+
+    <div class="container align-content-center">
+        <form asp-action="CerrarSesion" asp-controller="Cliente" method="post" class="Formulario">
+            <button type="submit" class="btn btn-danger">Cerrar Sesión</button>
+        </form>
+    </div>
+}
+else
+{
+    <h1 class="title text-center">No se tiene información del cliente</h1>
+}
+
